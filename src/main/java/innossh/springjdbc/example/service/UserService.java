@@ -1,8 +1,8 @@
-package innossh.springdata.jpa.example.service;
+package innossh.springjdbc.example.service;
 
-import innossh.springdata.jpa.example.bean.UsersGetResponse;
-import innossh.springdata.jpa.example.entity.User;
-import innossh.springdata.jpa.example.dao.UserDao;
+import innossh.springjdbc.example.bean.UsersGetResponse;
+import innossh.springjdbc.example.entity.User;
+import innossh.springjdbc.example.dao.UserDao;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;

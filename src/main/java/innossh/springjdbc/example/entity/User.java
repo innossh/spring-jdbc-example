@@ -1,4 +1,4 @@
-package innossh.springdata.jpa.example.entity;
+package innossh.springjdbc.example.entity;
 
 public class User {
 

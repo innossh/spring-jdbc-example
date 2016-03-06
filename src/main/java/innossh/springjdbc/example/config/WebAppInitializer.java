@@ -1,4 +1,4 @@
-package innossh.springdata.jpa.example.config;
+package innossh.springjdbc.example.config;
 
 import org.springframework.web.WebApplicationInitializer;
 import org.springframework.web.context.ContextLoaderListener;

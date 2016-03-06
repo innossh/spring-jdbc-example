@@ -1,8 +1,7 @@
-package innossh.springdata.jpa.example.controller;
+package innossh.springjdbc.example.controller;
 
-import innossh.springdata.jpa.example.bean.UsersGetResponse;
-import innossh.springdata.jpa.example.entity.User;
-import innossh.springdata.jpa.example.service.UserService;
+import innossh.springjdbc.example.bean.UsersGetResponse;
+import innossh.springjdbc.example.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.stereotype.Controller;

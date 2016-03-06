@@ -1,6 +1,6 @@
-package innossh.springdata.jpa.example.bean;
+package innossh.springjdbc.example.bean;
 
-import innossh.springdata.jpa.example.entity.User;
+import innossh.springjdbc.example.entity.User;
 
 import java.util.List;
 

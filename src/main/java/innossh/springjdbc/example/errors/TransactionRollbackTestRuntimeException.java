@@ -1,4 +1,4 @@
-package innossh.springdata.jpa.example.errors;
+package innossh.springjdbc.example.errors;
 
 public class TransactionRollbackTestRuntimeException extends RuntimeException {
 

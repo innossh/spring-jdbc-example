@@ -1,6 +1,6 @@
-package innossh.springdata.jpa.example.dao;
+package innossh.springjdbc.example.dao;
 
-import innossh.springdata.jpa.example.entity.User;
+import innossh.springjdbc.example.entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.jdbc.core.JdbcTemplate;
