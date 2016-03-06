@@ -1,0 +1,15 @@
+.gradle
+/gradle/
+gradlew
+gradlew.bat
+/build/
+/classes/
+
+*.class
+*.jar
+*.war
+
+/.idea/
+*.iml
+
+.DS_Store
